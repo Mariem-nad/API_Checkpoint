@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+.user-list {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.user-list ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.user-list li {
+  background: #f4f4f4;
+  margin: 10px 0;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.user-list h2 {
+  margin: 0 0 10px;
+}
+
+.user-list p {
+  margin: 5px 0;
+}
